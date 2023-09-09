@@ -45,5 +45,4 @@ o contexto da história.**
 
 ***
 ## 🛠️ Ferramentas:
-- [GOOGLE COLAB](https://colab.research.google.com/)
 - [TABLEAU](https://www.tableau.com/pt-br/community/public)
